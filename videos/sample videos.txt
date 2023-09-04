@@ -1,0 +1,1 @@
+3 sample videos provided to test the code. Different levels of flicker are present, so one can test the differences in calculated metrics
